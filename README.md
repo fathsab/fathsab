@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fathsab
 - 👀 I’m interested in exploring data
-- 🌱 I’m currently polishing my dusted data science knowledge  
-- 💞️ I’m looking to collaborate on data analytics, visualization and modelling
+- 🌱 I’m currently polishing my dusted IT and data science knowledge  
+- 💞️ I’m looking to collaborate on programming, data analytics, visualization and modelling
 - 📫 You can reach me on https://www.linkedin.com/in/fathia-sabrina/
 
 <!---
